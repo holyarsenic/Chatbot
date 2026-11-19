@@ -1,9 +1,6 @@
 AI CHATBOT // DIGITAL COMMUNICATION SYSTEM
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-POWERED-00F0FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FF00FF?style=for-the-badge" />
-</p><p align="center">
   <b>NOT JUST ANOTHER CHATBOT.</b>
   <br/>
   YOUR PERSONAL AI MESSAGING ASSISTANT.
